@@ -35,7 +35,7 @@
 - <font color=blue>Readme.md</font>  (说明文档)
 - <font color=blue>emailFetch.bat</font> (windows开机启动脚本)
 
-> 基于上次操作优化部分内容，我将所有的代码用pyinstaller打包为exe文件，需要三步操作即可。这次无需安装python环境，已经打包在程序中
+> (dist文件内容详述)基于上次操作优化部分内容，我将所有的代码用pyinstaller打包为exe文件，需要三步操作即可。这次无需安装python环境，已经打包在程序中
 1. 更改config.ini文件中的内容，包括email信息和文件存储路径(需提前建立)
 2. 更改emailFetch_1.bat文件中的路径，路径为本文件中timeTask.exe打包程序在本机的文件路径，并将其放入windows启动文件路径下，方便开机启动，(启动路径: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp)
 3. 第一次启动可双击exe文件，程序已经运行在后台
