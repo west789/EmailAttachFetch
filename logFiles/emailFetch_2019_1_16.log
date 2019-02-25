@@ -1,0 +1,93 @@
+2019-01-16 10:43:09,276 - INFO - emailAttDown.py[:16] - successful login
+2019-01-16 10:43:10,431 - INFO - emailAttDown.py[:71] - 附件已经存在，文件名为：PLANNING SUMMARY-20190114.xlsx
+2019-01-16 10:43:10,455 - INFO - emailAttDown.py[:79] - successful exit
+2019-01-16 10:43:40,804 - INFO - emailAttDown.py[:16] - successful login
+2019-01-16 10:43:41,572 - INFO - emailAttDown.py[:71] - 附件已经存在，文件名为：PLANNING SUMMARY-20190114.xlsx
+2019-01-16 10:43:41,586 - INFO - emailAttDown.py[:79] - successful exit
+2019-01-16 10:44:11,936 - INFO - emailAttDown.py[:16] - successful login
+2019-01-16 10:44:15,223 - INFO - emailAttDown.py[:71] - 附件已经存在，文件名为：PLANNING SUMMARY-20190114.xlsx
+2019-01-16 10:44:15,238 - INFO - emailAttDown.py[:79] - successful exit
+2019-01-16 13:41:27,254 - WARNING - testconfig.py[:17] - this is error1
+2019-01-16 14:04:31,394 - INFO - emailAttDown.py[:16] - successful login
+2019-01-16 14:14:48,370 - INFO - emailAttDown.py[:16] - successful login
+2019-01-16 14:15:55,245 - INFO - emailAttDown.py[:76] - 附件已经存在，文件名为：PLANNING SUMMARY-20190114.xlsx
+2019-01-16 14:16:05,775 - INFO - emailAttDown.py[:82] - 附件已经存在或本次查询没有找到需下载邮件附件
+2019-01-16 14:16:08,911 - INFO - emailAttDown.py[:85] - successful exit
+2019-01-16 14:17:15,882 - INFO - emailAttDown.py[:16] - successful login
+2019-01-16 14:17:59,495 - INFO - emailAttDown.py[:76] - 附件已经存在，文件名为：PLANNING SUMMARY-20190114.xlsx
+2019-01-16 14:18:03,930 - INFO - emailAttDown.py[:83] - 附件已经存在或本次查询没有找到需下载邮件附件
+2019-01-16 14:18:05,717 - INFO - emailAttDown.py[:86] - successful exit
+2019-01-16 14:18:26,145 - INFO - emailAttDown.py[:16] - successful login
+2019-01-16 14:49:23,098 - INFO - emailAttDown.py[:16] - successful login
+2019-01-16 14:49:24,832 - INFO - emailAttDown.py[:77] - 附件已经存在或本次查询没有找到需下载邮件附件
+2019-01-16 14:49:24,846 - INFO - emailAttDown.py[:80] - successful exit
+2019-01-16 14:49:55,203 - INFO - emailAttDown.py[:16] - successful login
+2019-01-16 14:49:56,941 - INFO - emailAttDown.py[:77] - 附件已经存在或本次查询没有找到需下载邮件附件
+2019-01-16 14:49:56,954 - INFO - emailAttDown.py[:80] - successful exit
+2019-01-16 14:51:18,673 - INFO - emailAttDown.py[:16] - successful login
+2019-01-16 14:51:20,465 - INFO - emailAttDown.py[:77] - 附件已经存在或本次查询没有找到需下载邮件附件
+2019-01-16 14:51:20,479 - INFO - emailAttDown.py[:80] - successful exit
+2019-01-16 14:51:53,848 - INFO - emailAttDown.py[:16] - successful login
+2019-01-16 14:51:55,605 - INFO - emailAttDown.py[:77] - 附件已经存在或本次查询没有找到需下载邮件附件
+2019-01-16 14:51:55,621 - INFO - emailAttDown.py[:80] - successful exit
+2019-01-16 14:53:05,354 - INFO - emailAttDown.py[:16] - successful login
+2019-01-16 14:53:07,081 - INFO - emailAttDown.py[:77] - 附件已经存在或本次查询没有找到需下载邮件附件
+2019-01-16 14:53:07,095 - INFO - emailAttDown.py[:80] - successful exit
+2019-01-16 14:54:59,288 - INFO - emailAttDown.py[:16] - successful login
+2019-01-16 14:56:06,926 - INFO - emailAttDown.py[:16] - successful login
+2019-01-16 14:56:08,909 - INFO - emailAttDown.py[:64] - 附件已经下载，文件名为：PLANNING SUMMARY-20190114.xlsx
+2019-01-16 14:56:08,925 - INFO - emailAttDown.py[:80] - successful exit
+2019-01-16 14:56:39,269 - INFO - emailAttDown.py[:16] - successful login
+2019-01-16 14:56:41,108 - INFO - emailAttDown.py[:77] - 附件已经存在或本次查询没有找到需下载邮件附件
+2019-01-16 14:56:41,121 - INFO - emailAttDown.py[:80] - successful exit
+2019-01-16 14:59:19,479 - ERROR - emailAttDown.py[:19] - Login Error
+2019-01-16 15:00:10,488 - ERROR - emailAttDown.py[:19] - Login Error
+2019-01-16 15:01:01,493 - ERROR - emailAttDown.py[:19] - Login Error
+2019-01-16 15:16:02,447 - INFO - emailAttDown.py[:16] - successful login
+2019-01-16 15:16:04,584 - INFO - emailAttDown.py[:64] - 附件已经下载，文件名为：PLANNING SUMMARY-20190114.xlsx
+2019-01-16 15:16:04,597 - INFO - emailAttDown.py[:80] - successful exit
+2019-01-16 15:16:34,945 - INFO - emailAttDown.py[:16] - successful login
+2019-01-16 15:16:36,700 - INFO - emailAttDown.py[:77] - 附件已经存在或本次查询没有找到需下载邮件附件
+2019-01-16 15:16:36,713 - INFO - emailAttDown.py[:80] - successful exit
+2019-01-16 15:17:07,061 - INFO - emailAttDown.py[:16] - successful login
+2019-01-16 15:17:08,855 - INFO - emailAttDown.py[:77] - 附件已经存在或本次查询没有找到需下载邮件附件
+2019-01-16 15:17:08,868 - INFO - emailAttDown.py[:80] - successful exit
+2019-01-16 15:17:39,245 - INFO - emailAttDown.py[:16] - successful login
+2019-01-16 15:17:40,985 - INFO - emailAttDown.py[:77] - 附件已经存在或本次查询没有找到需下载邮件附件
+2019-01-16 15:17:40,998 - INFO - emailAttDown.py[:80] - successful exit
+2019-01-16 15:20:00,874 - INFO - emailAttDown.py[:16] - successful login
+2019-01-16 15:20:02,635 - INFO - emailAttDown.py[:77] - 附件已经存在或本次查询没有找到需下载邮件附件
+2019-01-16 15:20:02,648 - INFO - emailAttDown.py[:80] - successful exit
+2019-01-16 16:04:00,784 - INFO - emailAttDown.py[:16] - successful login
+2019-01-16 16:04:02,890 - INFO - emailAttDown.py[:77] - 附件已经存在或本次查询没有找到需下载邮件附件
+2019-01-16 16:04:02,903 - INFO - emailAttDown.py[:80] - successful exit
+2019-01-16 16:16:00,690 - INFO - emailAttDown.py[:16] - successful login
+2019-01-16 16:16:03,083 - INFO - emailAttDown.py[:77] - 附件已经存在或本次查询没有找到需下载邮件附件
+2019-01-16 16:16:03,098 - INFO - emailAttDown.py[:80] - successful exit
+2019-01-16 16:25:03,220 - INFO - emailAttDown.py[:16] - successful login
+2019-01-16 16:25:05,935 - INFO - emailAttDown.py[:77] - 附件已经存在或本次查询没有找到需下载邮件附件
+2019-01-16 16:25:05,965 - INFO - emailAttDown.py[:80] - successful exit
+2019-01-16 16:35:00,216 - INFO - emailAttDown.py[:16] - successful login
+2019-01-16 16:35:10,757 - INFO - emailAttDown.py[:77] - 附件已经存在或本次查询没有找到需下载邮件附件
+2019-01-16 16:35:10,793 - INFO - emailAttDown.py[:80] - successful exit
+2019-01-16 16:35:45,053 - INFO - emailAttDown.py[:16] - successful login
+2019-01-16 16:35:47,319 - INFO - emailAttDown.py[:77] - 附件已经存在或本次查询没有找到需下载邮件附件
+2019-01-16 16:35:47,324 - INFO - emailAttDown.py[:80] - successful exit
+2019-01-16 16:36:17,801 - INFO - emailAttDown.py[:16] - successful login
+2019-01-16 16:36:19,715 - INFO - emailAttDown.py[:77] - 附件已经存在或本次查询没有找到需下载邮件附件
+2019-01-16 16:36:19,735 - INFO - emailAttDown.py[:80] - successful exit
+2019-01-16 16:36:50,091 - INFO - emailAttDown.py[:16] - successful login
+2019-01-16 16:36:52,844 - INFO - emailAttDown.py[:77] - 附件已经存在或本次查询没有找到需下载邮件附件
+2019-01-16 16:36:52,864 - INFO - emailAttDown.py[:80] - successful exit
+2019-01-16 16:46:36,290 - INFO - emailAttDown.py[:16] - successful login
+2019-01-16 16:46:38,908 - INFO - emailAttDown.py[:77] - 附件已经存在或本次查询没有找到需下载邮件附件
+2019-01-16 16:46:38,940 - INFO - emailAttDown.py[:80] - successful exit
+2019-01-16 16:47:09,299 - INFO - emailAttDown.py[:16] - successful login
+2019-01-16 16:47:11,539 - INFO - emailAttDown.py[:77] - 附件已经存在或本次查询没有找到需下载邮件附件
+2019-01-16 16:47:11,559 - INFO - emailAttDown.py[:80] - successful exit
+2019-01-16 16:48:11,968 - INFO - emailAttDown.py[:16] - successful login
+2019-01-16 16:48:14,066 - INFO - emailAttDown.py[:77] - 附件已经存在或本次查询没有找到需下载邮件附件
+2019-01-16 16:48:14,076 - INFO - emailAttDown.py[:80] - successful exit
+2019-01-16 16:48:44,450 - INFO - emailAttDown.py[:16] - successful login
+2019-01-16 16:48:47,684 - INFO - emailAttDown.py[:77] - 附件已经存在或本次查询没有找到需下载邮件附件
+2019-01-16 16:48:47,696 - INFO - emailAttDown.py[:80] - successful exit

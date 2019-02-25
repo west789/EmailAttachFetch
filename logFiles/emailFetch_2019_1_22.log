@@ -1,0 +1,6 @@
+2019-01-22 09:27:37,849 - INFO - emailAttDown.py[:15] - successful login
+2019-01-22 09:27:41,815 - INFO - emailAttDown.py[:76] - 附件已经存在或本次查询没有找到需下载邮件附件
+2019-01-22 09:27:41,830 - INFO - emailAttDown.py[:79] - successful exit
+2019-01-28 21:00:01,075 - INFO - emailAttDown.py[:15] - successful login
+2019-01-28 21:00:04,267 - INFO - emailAttDown.py[:76] - 附件已经存在或本次查询没有找到需下载邮件附件
+2019-01-28 21:00:04,281 - INFO - emailAttDown.py[:79] - successful exit

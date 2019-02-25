@@ -1,0 +1,6 @@
+2019-01-30 18:15:37,536 - INFO - emailAttDown.py[:16] - successful login
+2019-01-30 18:15:41,666 - INFO - emailAttDown.py[:69] - 附件已经下载，文件名为：PLANNING SUMMARY-20190114.xlsx
+2019-01-30 18:15:41,676 - INFO - emailAttDown.py[:85] - successful exit
+2019-01-30 18:22:06,621 - INFO - emailAttDown.py[:16] - successful login
+2019-01-30 18:22:10,490 - INFO - emailAttDown.py[:82] - 附件已经存在或本次查询没有找到需下载邮件附件
+2019-01-30 18:22:10,506 - INFO - emailAttDown.py[:85] - successful exit
