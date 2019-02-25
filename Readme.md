@@ -26,6 +26,7 @@
 **emailAttFetch**
 - <font color=blue>logFiles</font>  (日志文件夹)
     - <font color=blue>emailFetch.log</font>  (日志文件)
+- <font color=blue>dist</font>  (打包文件,详述最下方)
 - <font color=blue>config.ini</font>  (配置文件)
 - <font color=blue>initCfg.py</font>  (初始化配置文件)
 - <font color=blue>emailAttDown.py</font>  (主功能代码文件)
